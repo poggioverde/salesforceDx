@@ -24,13 +24,14 @@
         <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
+    
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Veicolo__c</members>
+        <name>CustomObject</name>
     </types>
     <version>54.0</version>
 </Package>
